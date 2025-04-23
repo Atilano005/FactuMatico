@@ -3,7 +3,7 @@ A little program I made for my mother.
 
 The first actually useful program I ever put together.
 It calculates the value of the tax for a product in a way that it is included
-in the final price in a neatly rounded and cash friendly way.
+in the final price in a neatly rounded and cash friendly sum.
 
 First it prompts the user for the days exchange rate, and uses it to return the prices
 in local currency.
