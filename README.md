@@ -18,7 +18,7 @@ was bound to lose us some money in a simple hand-held calculator mistake.
 
 This was the first time I realized I could solve a real problem--a problem that I had-- 
 using a computer. No games, no social media, no cat pictures. A skill I had learned on a whim 
-and a few lines of code saved us time, effort, and a potential legal issue.
+and a few lines of code saved us time, effort, and a potential issues with customers.
 
 Also ink and paper.
 
